@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="about">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F9D923"/><stop offset=".55" stop-color="#F6A21E"/><stop offset="1" stop-color="#D62828"/></linearGradient></defs>
+  <g>
+    <animateTransform attributeName="transform" type="scale" values="1;1.08;1" additive="sum" dur="3s" repeatCount="indefinite"/>
+    <g transform="translate(6.00 8.89) scale(0.0903)" fill="url(#g)" ><path d="M0 192c0-35.3 28.7-64 64-64l64 0 127.9-115.1c18.3-16.4 46-16.4 64.2 0L448 128 512 128c35.3 0 64 28.7 64 64l0 256c0 35.3-28.7 64-64 64L64 512c-35.3 0-64-28.7-64-64L0 192zM224 376l0 88 128 0 0-88c0-22.1-17.9-40-40-40l-48 0c-22.1 0-40 17.9-40 40zm-112 8c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0c-8.8 0-16 7.2-16 16l0 32c0 8.8 7.2 16 16 16l32 0zm16-144l0-32c0-8.8-7.2-16-16-16l-32 0c-8.8 0-16 7.2-16 16l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16zM496 384c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0c-8.8 0-16 7.2-16 16l0 32c0 8.8 7.2 16 16 16l32 0zm16-144l0-32c0-8.8-7.2-16-16-16l-32 0c-8.8 0-16 7.2-16 16l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16zM288 256a64 64 0 1 0 0-128 64 64 0 1 0 0 128z"/></g>
+  </g>
+</svg>
