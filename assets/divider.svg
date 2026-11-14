@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 36" width="1200" height="36" role="img" aria-label="divider">
+  <defs>
+    <linearGradient id="l" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#D62828" stop-opacity="0"/><stop offset=".5" stop-color="#F6A21E"/><stop offset="1" stop-color="#F9D923"/>
+    </linearGradient>
+    <linearGradient id="r" x1="1" y1="0" x2="0" y2="0">
+      <stop offset="0" stop-color="#D62828" stop-opacity="0"/><stop offset=".5" stop-color="#F6A21E"/><stop offset="1" stop-color="#F9D923"/>
+    </linearGradient>
+  </defs>
+  <rect x="60" y="17" width="480" height="2.5" rx="1.25" fill="url(#l)"/>
+  <rect x="660" y="17" width="480" height="2.5" rx="1.25" fill="url(#r)"/>
+  <circle cx="60" cy="18.2" r="4" fill="#F9D923"><animate attributeName="cx" values="60;540;60" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="6s" repeatCount="indefinite"/></circle>
+  <circle cx="1140" cy="18.2" r="4" fill="#F9D923"><animate attributeName="cx" values="1140;660;1140" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="6s" repeatCount="indefinite"/></circle>
+  <g transform="translate(600 18)">
+    <circle cx="-22" r="5" fill="#F9D923"><animate attributeName="r" values="3;6;3" dur="1.8s" begin="0s" repeatCount="indefinite"/></circle>
+    <circle cx="0" r="5" fill="#F6A21E"><animate attributeName="r" values="3;6;3" dur="1.8s" begin=".3s" repeatCount="indefinite"/></circle>
+    <circle cx="22" r="5" fill="#D62828"><animate attributeName="r" values="3;6;3" dur="1.8s" begin=".6s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>

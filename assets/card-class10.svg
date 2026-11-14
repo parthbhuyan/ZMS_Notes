@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 210" width="560" height="210" role="img" aria-label="Class 10 - Revision and practice for the boards">
+  <defs>
+    <linearGradient id="sh" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F6A21E" stop-opacity="0"/><stop offset=".5" stop-color="#F6A21E"/><stop offset="1" stop-color="#F6A21E" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="bgc" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1D2128"/><stop offset="1" stop-color="#14171C"/></linearGradient>
+    <clipPath id="cc"><rect x="6" y="6" width="548" height="198" rx="20"/></clipPath>
+  </defs>
+  <rect x="6" y="6" width="548" height="198" rx="20" fill="url(#bgc)"/>
+  <g clip-path="url(#cc)">
+    <text x="548" y="168" text-anchor="end" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="150" font-weight="900" fill="none" stroke="#F6A21E" stroke-opacity=".16" stroke-width="2">10</text>
+    <rect x="-300" y="6" width="300" height="3" fill="url(#sh)">
+      <animate attributeName="x" values="-300;560" dur="4.5s" begin="0.5s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="6" y="6" width="6" height="198" fill="#F6A21E"/>
+  </g>
+  <rect x="6" y="6" width="548" height="198" rx="20" fill="none" stroke="#F6A21E" stroke-opacity=".4" stroke-width="1.5"/>
+
+  <circle cx="74" cy="72" r="34" fill="none" stroke="#F6A21E" stroke-width="1.5">
+    <animate attributeName="r" values="34;50" dur="2.8s" begin="0.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".7;0" dur="2.8s" begin="0.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="74" cy="72" r="34" fill="#F6A21E"/>
+  <g transform="translate(57.00 55.00) scale(0.0664)" fill="#14171C" ><path d="M256 141.3l0 309.3 .5-.2C311.1 427.7 369.7 416 428.8 416l19.2 0 0-320-19.2 0c-42.2 0-84.1 8.4-123.1 24.6-16.8 7-33.4 13.9-49.7 20.7zM230.9 61.5L256 72 281.1 61.5C327.9 42 378.1 32 428.8 32L464 32c26.5 0 48 21.5 48 48l0 352c0 26.5-21.5 48-48 48l-35.2 0c-50.7 0-100.9 10-147.7 29.5l-12.8 5.3c-7.9 3.3-16.7 3.3-24.6 0l-12.8-5.3C184.1 490 133.9 480 83.2 480L48 480c-26.5 0-48-21.5-48-48L0 80C0 53.5 21.5 32 48 32l35.2 0c50.7 0 100.9 10 147.7 29.5z"/></g>
+
+  <text x="128" y="66" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="32" font-weight="800" fill="#fff">Class 10</text>
+  <text x="129" y="92" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" letter-spacing="3" fill="#F6A21E">BOARD YEAR</text>
+
+  <text x="36" y="148" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#C9CFDA">Revision and practice for the boards</text>
+
+  <g transform="translate(36 172)">
+    <rect width="156" height="24" rx="12" fill="#F6A21E" fill-opacity=".14"/>
+    <text x="16" y="16.5" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.2" fill="#F6A21E">OPEN FOLDER</text>
+    <g transform="translate(134 12)">
+      <animateTransform attributeName="transform" type="translate" values="134 12;141 12;134 12" dur="1.6s" repeatCount="indefinite"/>
+      <g transform="translate(-5.50 -5.50) scale(0.0215)" fill="#F6A21E" ><path d="M502.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l370.7 0-105.4 105.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z"/></g>
+    </g>
+  </g>
+</svg>

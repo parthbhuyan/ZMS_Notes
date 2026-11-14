@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180" role="img" aria-label="Learning path from Class 9 to Class 12">
+  <defs>
+    <linearGradient id="pg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F9D923"/><stop offset=".4" stop-color="#F6A21E"/><stop offset=".7" stop-color="#E8601C"/><stop offset="1" stop-color="#D62828"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="4" width="1184" height="172" rx="22" fill="#14171C"/>
+  <rect x="150" y="77" width="900" height="6" rx="3" fill="#8A93A3" opacity=".25"/>
+  <rect x="150" y="77" width="0" height="6" rx="3" fill="url(#pg)">
+    <animate attributeName="width" values="0;900;900;0" keyTimes="0;.55;.9;1" dur="9s" repeatCount="indefinite"/>
+  </rect>
+  <path id="trail" d="M150 80 H1050" fill="none"/>
+  
+  <g>
+    <circle cx="150" cy="80" r="30" fill="#F9D923" opacity=".18"><animate attributeName="r" values="30;38;30" dur="3s" begin="0.0s" repeatCount="indefinite"/></circle>
+    <circle cx="150" cy="80" r="26" fill="#14171C" stroke="#F9D923" stroke-width="3"/>
+    <text x="150" y="88" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" font-weight="800" fill="#F9D923">09</text>
+    <text x="150" y="136" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#E7EAF0">Class 09</text>
+    <text x="150" y="156" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" letter-spacing="1.5" fill="#9AA3B2">FOUNDATION</text>
+  </g>
+  <g>
+    <circle cx="450" cy="80" r="30" fill="#F6A21E" opacity=".18"><animate attributeName="r" values="30;38;30" dur="3s" begin="0.5s" repeatCount="indefinite"/></circle>
+    <circle cx="450" cy="80" r="26" fill="#14171C" stroke="#F6A21E" stroke-width="3"/>
+    <text x="450" y="88" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" font-weight="800" fill="#F6A21E">10</text>
+    <text x="450" y="136" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#E7EAF0">Class 10</text>
+    <text x="450" y="156" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" letter-spacing="1.5" fill="#9AA3B2">BOARD YEAR</text>
+  </g>
+  <g>
+    <circle cx="750" cy="80" r="30" fill="#E8601C" opacity=".18"><animate attributeName="r" values="30;38;30" dur="3s" begin="1.0s" repeatCount="indefinite"/></circle>
+    <circle cx="750" cy="80" r="26" fill="#14171C" stroke="#E8601C" stroke-width="3"/>
+    <text x="750" y="88" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" font-weight="800" fill="#E8601C">11</text>
+    <text x="750" y="136" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#E7EAF0">Class 11</text>
+    <text x="750" y="156" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" letter-spacing="1.5" fill="#9AA3B2">SENIOR SECONDARY</text>
+  </g>
+  <g>
+    <circle cx="1050" cy="80" r="30" fill="#D62828" opacity=".18"><animate attributeName="r" values="30;38;30" dur="3s" begin="1.5s" repeatCount="indefinite"/></circle>
+    <circle cx="1050" cy="80" r="26" fill="#14171C" stroke="#D62828" stroke-width="3"/>
+    <text x="1050" y="88" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" font-weight="800" fill="#D62828">12</text>
+    <text x="1050" y="136" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#E7EAF0">Class 12</text>
+    <text x="1050" y="156" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" letter-spacing="1.5" fill="#9AA3B2">BOARD YEAR</text>
+  </g>
+  <g>
+    <circle r="9" fill="#fff"/><circle r="15" fill="#fff" opacity=".25"/>
+    <animateMotion dur="9s" repeatCount="indefinite" keyPoints="0;1;1;0" keyTimes="0;.55;.9;1" calcMode="linear"><mpath xlink:href="#trail" xmlns:xlink="http://www.w3.org/1999/xlink"/></animateMotion>
+  </g>
+</svg>

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200" role="img" aria-label="Chapter notes, practical files, lab setup guides, always growing">
+  <g transform="translate(0 0)">
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.0s" dur=".6s" fill="freeze"/>
+      <rect x="8" y="8" width="284" height="184" rx="18" fill="#14171C"/>
+      <rect x="8" y="8" width="284" height="184" rx="18" fill="none" stroke="#F9D923" stroke-opacity=".35"/>
+      <rect x="8" y="8" width="284" height="5" rx="2.5" fill="#F9D923"/>
+      <circle cx="56" cy="66" r="30" fill="#F9D923" opacity=".16"><animate attributeName="r" values="30;36;30" dur="3.2s" begin="0.0s" repeatCount="indefinite"/></circle>
+      <circle cx="56" cy="66" r="26" fill="#F9D923"/>
+      <g transform="translate(43.00 53.00) scale(0.0508)" fill="#14171C" ><path d="M256 141.3l0 309.3 .5-.2C311.1 427.7 369.7 416 428.8 416l19.2 0 0-320-19.2 0c-42.2 0-84.1 8.4-123.1 24.6-16.8 7-33.4 13.9-49.7 20.7zM230.9 61.5L256 72 281.1 61.5C327.9 42 378.1 32 428.8 32L464 32c26.5 0 48 21.5 48 48l0 352c0 26.5-21.5 48-48 48l-35.2 0c-50.7 0-100.9 10-147.7 29.5l-12.8 5.3c-7.9 3.3-16.7 3.3-24.6 0l-12.8-5.3C184.1 490 133.9 480 83.2 480L48 480c-26.5 0-48-21.5-48-48L0 80C0 53.5 21.5 32 48 32l35.2 0c50.7 0 100.9 10 147.7 29.5z"/></g>
+      <text x="26" y="124" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#fff">Chapter notes</text>
+      <text x="26" y="148" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#9AA3B2">Short, exam-focused</text>
+      <text x="26" y="167" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#9AA3B2">and easy to revise</text>
+    </g>
+  </g>
+  <g transform="translate(300 0)">
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.15s" dur=".6s" fill="freeze"/>
+      <rect x="8" y="8" width="284" height="184" rx="18" fill="#14171C"/>
+      <rect x="8" y="8" width="284" height="184" rx="18" fill="none" stroke="#F6A21E" stroke-opacity=".35"/>
+      <rect x="8" y="8" width="284" height="5" rx="2.5" fill="#F6A21E"/>
+      <circle cx="56" cy="66" r="30" fill="#F6A21E" opacity=".16"><animate attributeName="r" values="30;36;30" dur="3.2s" begin="0.4s" repeatCount="indefinite"/></circle>
+      <circle cx="56" cy="66" r="26" fill="#F6A21E"/>
+      <g transform="translate(43.00 55.60) scale(0.0406)" fill="#14171C" ><path d="M64 96c0-35.3 28.7-64 64-64l384 0c35.3 0 64 28.7 64 64l0 240-64 0 0-240-384 0 0 240-64 0 0-240zM0 403.2C0 392.6 8.6 384 19.2 384l601.6 0c10.6 0 19.2 8.6 19.2 19.2 0 42.4-34.4 76.8-76.8 76.8L76.8 480C34.4 480 0 445.6 0 403.2zM281 209l-31 31 31 31c9.4 9.4 9.4 24.6 0 33.9s-24.6 9.4-33.9 0l-48-48c-9.4-9.4-9.4-24.6 0-33.9l48-48c9.4-9.4 24.6-9.4 33.9 0s9.4 24.6 0 33.9zM393 175l48 48c9.4 9.4 9.4 24.6 0 33.9l-48 48c-9.4 9.4-24.6 9.4-33.9 0s-9.4-24.6 0-33.9l31-31-31-31c-9.4-9.4-9.4-24.6 0-33.9s24.6-9.4 33.9 0z"/></g>
+      <text x="26" y="124" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#fff">Practical files</text>
+      <text x="26" y="148" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#9AA3B2">Programs and lab work</text>
+      <text x="26" y="167" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#9AA3B2">to follow along</text>
+    </g>
+  </g>
+  <g transform="translate(600 0)">
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.3s" dur=".6s" fill="freeze"/>
+      <rect x="8" y="8" width="284" height="184" rx="18" fill="#14171C"/>
+      <rect x="8" y="8" width="284" height="184" rx="18" fill="none" stroke="#E8601C" stroke-opacity=".35"/>
+      <rect x="8" y="8" width="284" height="5" rx="2.5" fill="#E8601C"/>
+      <circle cx="56" cy="66" r="30" fill="#E8601C" opacity=".16"><animate attributeName="r" values="30;36;30" dur="3.2s" begin="0.8s" repeatCount="indefinite"/></circle>
+      <circle cx="56" cy="66" r="26" fill="#E8601C"/>
+      <g transform="translate(43.00 54.44) scale(0.0451)" fill="#14171C" ><path d="M70.8-6.7c5.4-5.4 13.8-6.2 20.2-2L209.9 70.5c8.9 5.9 14.2 15.9 14.2 26.6l0 49.6 90.8 90.8c33.3-15 73.9-8.9 101.2 18.5L542.2 382.1c18.7 18.7 18.7 49.1 0 67.9l-60.1 60.1c-18.7 18.7-49.1 18.7-67.9 0L288.1 384c-27.4-27.4-33.5-67.9-18.5-101.2l-90.8-90.8-49.6 0c-10.7 0-20.7-5.3-26.6-14.2L23.4 58.9c-4.2-6.3-3.4-14.8 2-20.2L70.8-6.7zm145 303.5c-6.3 36.9 2.3 75.9 26.2 107.2l-94.9 95c-28.1 28.1-73.7 28.1-101.8 0s-28.1-73.7 0-101.8l135.4-135.5 35.2 35.1zM384.1 0c20.1 0 39.4 3.7 57.1 10.5 10 3.8 11.8 16.5 4.3 24.1L388.8 91.3c-3 3-4.7 7.1-4.7 11.3l0 41.4c0 8.8 7.2 16 16 16l41.4 0c4.2 0 8.3-1.7 11.3-4.7l56.7-56.7c7.6-7.5 20.3-5.7 24.1 4.3 6.8 17.7 10.5 37 10.5 57.1 0 43.2-17.2 82.3-45 111.1l-49.1-49.1c-33.1-33-78.5-45.7-121.1-38.4l-56.8-56.8 0-29.7-.2-5c-.8-12.4-4.4-24.3-10.5-34.9 29.4-35 73.4-57.2 122.7-57.3z"/></g>
+      <text x="26" y="124" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#fff">Lab setup</text>
+      <text x="26" y="148" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#9AA3B2">Install guides for the</text>
+      <text x="26" y="167" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#9AA3B2">tools we use in class</text>
+    </g>
+  </g>
+  <g transform="translate(900 0)">
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.44999999999999996s" dur=".6s" fill="freeze"/>
+      <rect x="8" y="8" width="284" height="184" rx="18" fill="#14171C"/>
+      <rect x="8" y="8" width="284" height="184" rx="18" fill="none" stroke="#D62828" stroke-opacity=".35"/>
+      <rect x="8" y="8" width="284" height="5" rx="2.5" fill="#D62828"/>
+      <circle cx="56" cy="66" r="30" fill="#D62828" opacity=".16"><animate attributeName="r" values="30;36;30" dur="3.2s" begin="1.2000000000000002s" repeatCount="indefinite"/></circle>
+      <circle cx="56" cy="66" r="26" fill="#D62828"/>
+      <g transform="translate(43.00 53.00) scale(0.0508)" fill="#14171C" ><path d="M65.9 228.5c13.3-93 93.4-164.5 190.1-164.5 53 0 101 21.5 135.8 56.2 .2 .2 .4 .4 .6 .6l7.6 7.2-47.9 0c-17.7 0-32 14.3-32 32s14.3 32 32 32l128 0c17.7 0 32-14.3 32-32l0-128c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 53.4-11.3-10.7C390.5 28.6 326.5 0 256 0 127 0 20.3 95.4 2.6 219.5 .1 237 12.2 253.2 29.7 255.7s33.7-9.7 36.2-27.1zm443.5 64c2.5-17.5-9.7-33.7-27.1-36.2s-33.7 9.7-36.2 27.1c-13.3 93-93.4 164.5-190.1 164.5-53 0-101-21.5-135.8-56.2-.2-.2-.4-.4-.6-.6l-7.6-7.2 47.9 0c17.7 0 32-14.3 32-32s-14.3-32-32-32L32 320c-8.5 0-16.7 3.4-22.7 9.5S-.1 343.7 0 352.3l1 127c.1 17.7 14.6 31.9 32.3 31.7S65.2 496.4 65 478.7l-.4-51.5 10.7 10.1c46.3 46.1 110.2 74.7 180.7 74.7 129 0 235.7-95.4 253.4-219.5z"/></g>
+      <text x="26" y="124" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#fff">Always growing</text>
+      <text x="26" y="148" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#9AA3B2">New material is added</text>
+      <text x="26" y="167" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#9AA3B2">every week</text>
+    </g>
+  </g>
+</svg>

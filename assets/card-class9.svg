@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 210" width="560" height="210" role="img" aria-label="Class 9 - Skills and ICT basics to start strong">
+  <defs>
+    <linearGradient id="sh" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F9D923" stop-opacity="0"/><stop offset=".5" stop-color="#F9D923"/><stop offset="1" stop-color="#F9D923" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="bgc" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1D2128"/><stop offset="1" stop-color="#14171C"/></linearGradient>
+    <clipPath id="cc"><rect x="6" y="6" width="548" height="198" rx="20"/></clipPath>
+  </defs>
+  <rect x="6" y="6" width="548" height="198" rx="20" fill="url(#bgc)"/>
+  <g clip-path="url(#cc)">
+    <text x="548" y="168" text-anchor="end" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="150" font-weight="900" fill="none" stroke="#F9D923" stroke-opacity=".16" stroke-width="2">09</text>
+    <rect x="-300" y="6" width="300" height="3" fill="url(#sh)">
+      <animate attributeName="x" values="-300;560" dur="4.5s" begin="0s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="6" y="6" width="6" height="198" fill="#F9D923"/>
+  </g>
+  <rect x="6" y="6" width="548" height="198" rx="20" fill="none" stroke="#F9D923" stroke-opacity=".4" stroke-width="1.5"/>
+
+  <circle cx="74" cy="72" r="34" fill="none" stroke="#F9D923" stroke-width="1.5">
+    <animate attributeName="r" values="34;50" dur="2.8s" begin="0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".7;0" dur="2.8s" begin="0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="74" cy="72" r="34" fill="#F9D923"/>
+  <g transform="translate(57.00 56.89) scale(0.0590)" fill="#14171C" ><path d="M48 195.8l209.2 86.1c9.8 4 20.2 6.1 30.8 6.1s21-2.1 30.8-6.1l242.4-99.8c9-3.7 14.8-12.4 14.8-22.1s-5.8-18.4-14.8-22.1L318.8 38.1C309 34.1 298.6 32 288 32s-21 2.1-30.8 6.1L14.8 137.9C5.8 141.6 0 150.3 0 160L0 456c0 13.3 10.7 24 24 24s24-10.7 24-24l0-260.2zm48 71.7L96 384c0 53 86 96 192 96s192-43 192-96l0-116.6-142.9 58.9c-15.6 6.4-32.2 9.7-49.1 9.7s-33.5-3.3-49.1-9.7L96 267.4z"/></g>
+
+  <text x="128" y="66" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="32" font-weight="800" fill="#fff">Class 9</text>
+  <text x="129" y="92" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" letter-spacing="3" fill="#F9D923">FOUNDATION</text>
+
+  <text x="36" y="148" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#C9CFDA">Skills and ICT basics to start strong</text>
+
+  <g transform="translate(36 172)">
+    <rect width="156" height="24" rx="12" fill="#F9D923" fill-opacity=".14"/>
+    <text x="16" y="16.5" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.2" fill="#F9D923">OPEN FOLDER</text>
+    <g transform="translate(134 12)">
+      <animateTransform attributeName="transform" type="translate" values="134 12;141 12;134 12" dur="1.6s" repeatCount="indefinite"/>
+      <g transform="translate(-5.50 -5.50) scale(0.0215)" fill="#F9D923" ><path d="M502.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l370.7 0-105.4 105.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z"/></g>
+    </g>
+  </g>
+</svg>

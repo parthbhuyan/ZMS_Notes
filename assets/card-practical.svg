@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 210" width="560" height="210" role="img" aria-label="Practical - Programs and practical files to follow along">
+  <defs>
+    <linearGradient id="sh" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2EC4B6" stop-opacity="0"/><stop offset=".5" stop-color="#2EC4B6"/><stop offset="1" stop-color="#2EC4B6" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="bgc" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1D2128"/><stop offset="1" stop-color="#14171C"/></linearGradient>
+    <clipPath id="cc"><rect x="6" y="6" width="548" height="198" rx="20"/></clipPath>
+  </defs>
+  <rect x="6" y="6" width="548" height="198" rx="20" fill="url(#bgc)"/>
+  <g clip-path="url(#cc)">
+    <g transform="translate(425.50 38.00) scale(0.2344)" fill="#2EC4B6" opacity=".09"><path d="M288 0L128 0C110.3 0 96 14.3 96 32s14.3 32 32 32L128 215.5 7.5 426.3C2.6 435 0 444.7 0 454.7 0 486.4 25.6 512 57.3 512l333.4 0c31.6 0 57.3-25.6 57.3-57.3 0-10-2.6-19.8-7.5-28.4L320 215.5 320 64c17.7 0 32-14.3 32-32S337.7 0 320 0L288 0zM192 215.5l0-151.5 64 0 0 151.5c0 11.1 2.9 22.1 8.4 31.8l41.6 72.7-164 0 41.6-72.7c5.5-9.7 8.4-20.6 8.4-31.8z"/></g>
+    <rect x="-300" y="6" width="300" height="3" fill="url(#sh)">
+      <animate attributeName="x" values="-300;560" dur="4.5s" begin="2s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="6" y="6" width="6" height="198" fill="#2EC4B6"/>
+  </g>
+  <rect x="6" y="6" width="548" height="198" rx="20" fill="none" stroke="#2EC4B6" stroke-opacity=".4" stroke-width="1.5"/>
+
+  <circle cx="74" cy="72" r="34" fill="none" stroke="#2EC4B6" stroke-width="1.5">
+    <animate attributeName="r" values="34;50" dur="2.8s" begin="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".7;0" dur="2.8s" begin="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="74" cy="72" r="34" fill="#2EC4B6"/>
+  <g transform="translate(59.12 55.00) scale(0.0664)" fill="#14171C" ><path d="M288 0L128 0C110.3 0 96 14.3 96 32s14.3 32 32 32L128 215.5 7.5 426.3C2.6 435 0 444.7 0 454.7 0 486.4 25.6 512 57.3 512l333.4 0c31.6 0 57.3-25.6 57.3-57.3 0-10-2.6-19.8-7.5-28.4L320 215.5 320 64c17.7 0 32-14.3 32-32S337.7 0 320 0L288 0zM192 215.5l0-151.5 64 0 0 151.5c0 11.1 2.9 22.1 8.4 31.8l41.6 72.7-164 0 41.6-72.7c5.5-9.7 8.4-20.6 8.4-31.8z"/></g>
+
+  <text x="128" y="66" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="32" font-weight="800" fill="#fff">Practical</text>
+  <text x="129" y="92" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" letter-spacing="3" fill="#2EC4B6">LAB WORK</text>
+
+  <text x="36" y="148" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#C9CFDA">Programs and practical files to follow along</text>
+
+  <g transform="translate(36 172)">
+    <rect width="156" height="24" rx="12" fill="#2EC4B6" fill-opacity=".14"/>
+    <text x="16" y="16.5" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.2" fill="#2EC4B6">OPEN FOLDER</text>
+    <g transform="translate(134 12)">
+      <animateTransform attributeName="transform" type="translate" values="134 12;141 12;134 12" dur="1.6s" repeatCount="indefinite"/>
+      <g transform="translate(-5.50 -5.50) scale(0.0215)" fill="#2EC4B6" ><path d="M502.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l370.7 0-105.4 105.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z"/></g>
+    </g>
+  </g>
+</svg>
